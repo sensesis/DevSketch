@@ -48,7 +48,7 @@ https://naver.com
 
 
 ## 🗺️ ERD
-<img src="">
+<img src="https://github.com/user-attachments/assets/9ee49521-fbce-45a1-9a79-d0624d476ed4">
 
 </br>
 
