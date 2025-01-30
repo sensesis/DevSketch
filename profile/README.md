@@ -55,9 +55,9 @@ https://naver.com
 
 ## 📄 API 
 <div style="text-align: center;">
-<img src="https://github.com/user-attachments/assets/35ecaf92-0921-424e-b24c-edb57c3b0042" />
-<img src="https://github.com/user-attachments/assets/6a118593-4722-4a7a-8d8c-88330323c6de" />
-<img src="https://github.com/user-attachments/assets/086691b7-f823-41ea-84af-7d7b1d422303" />
+<img width="1498" alt="스크린샷 2025-01-30 오후 5 54 32" src="https://github.com/user-attachments/assets/c3cf71c3-df89-46b5-b33d-430c41494dc5" />
+<img width="1496" alt="스크린샷 2025-01-30 오후 6 25 18" src="https://github.com/user-attachments/assets/4d746ef4-514a-4cee-b386-fbce65e4f39b" />
+
 
 </div>
 </br>
