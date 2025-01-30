@@ -36,7 +36,8 @@ https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B
 </table>
 
 ## 🏢 System Architechture
-<img src="https://github.com/user-attachments/assets/5e2f86bb-169d-47aa-8749-ee3f6593e43f">
+![image](https://github.com/user-attachments/assets/6112b462-ebf5-4663-845f-cb6b65adb9f1)
+
 
 </br>
 
@@ -142,6 +143,9 @@ https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B
 
 ## 🧑🏻‍💻 Monitoring
 <table align="center" style="border-collapse: collapse;">
+![image](https://github.com/user-attachments/assets/8795b203-59ef-41ff-9241-6f7abbf4496d) <br>
+![image](https://github.com/user-attachments/assets/6d61c17c-569a-447d-83f5-a660c56ddba2) <br>
+
 
 </table>
 
