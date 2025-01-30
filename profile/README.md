@@ -25,7 +25,7 @@
 </br>
 
 ## 📝 Medium 
-https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84%EB%B6%80%ED%84%B0-%EC%83%9D%EC%84%B1%EA%B9%8C%EC%A7%80-ai%EA%B0%80-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-devsketch-2024-siliconvalley-winter-bootcamp-8f69595ec7a1
+[DevSkatch Medium](https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84%EB%B6%80%ED%84%B0-%EC%83%9D%EC%84%B1%EA%B9%8C%EC%A7%80-ai%EA%B0%80-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-devsketch-2024-siliconvalley-winter-bootcamp-8f69595ec7a1)
 
 </br>
 
@@ -36,8 +36,7 @@ https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B
 </table>
 
 ## 🏢 System Architechture
-![image](https://github.com/user-attachments/assets/695acec5-66fd-40fc-b67c-331a7ebf86bc)
-
+![image](https://github.com/user-attachments/assets/5f5a090e-0ec2-4902-b43c-423b5f966435)
 
 
 
@@ -144,13 +143,23 @@ https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B
 </br>
 
 ## 🧑🏻‍💻 Monitoring
-<table align="center" style="border-collapse: collapse;">
-![image](https://github.com/user-attachments/assets/8795b203-59ef-41ff-9241-6f7abbf4496d) <br>
-![image](https://github.com/user-attachments/assets/6d61c17c-569a-447d-83f5-a660c56ddba2) <br>
-
-
-</table>
-
+<div align="center">
+  <h3 align="left">Prometheus & Grafana</h3>
+  <table>
+        <tr>
+            <th colspan="1">Django</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/6d61c17c-569a-447d-83f5-a660c56ddba2" alt="Django"></td>
+        </tr>
+        <tr>
+            <th colspan="1">cAdvisor</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/8795b203-59ef-41ff-9241-6f7abbf4496d" alt="cAdvisor"></td>
+        </tr>
+    </table>
+</div>
 
 ## 📂 Directory Structure
 <details>
@@ -315,7 +324,6 @@ https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B
 </pre>
 </details>
 
-</br>
 
 ## 🧐 How to Start
 ### Backend 
