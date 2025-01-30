@@ -1,6 +1,6 @@
 ### <p align = center>2024 Techeer Winter BootCamp Team I<p>
 <div align=center>
-<br> <image width=50%, height=50%, src="https://github.com/user-attachments/assets/fc7fbd35-0b29-410c-b157-7f74e90e1345">
+<br> <image width=80%, height=80%, src="https://github.com/user-attachments/assets/fc7fbd35-0b29-410c-b157-7f74e90e1345">
 
 
 <br> DevSketch 
@@ -22,7 +22,7 @@
 - [How to Start](#-How-to-Start)
 - [Member](#-Member)
 
-
+</br>
 
 ## 📝 Medium 
 https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84%EB%B6%80%ED%84%B0-%EC%83%9D%EC%84%B1%EA%B9%8C%EC%A7%80-ai%EA%B0%80-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-devsketch-2024-siliconvalley-winter-bootcamp-8f69595ec7a1
