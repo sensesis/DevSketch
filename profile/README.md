@@ -353,12 +353,12 @@ git clone --recursive https://github.com/2024-Techeer-Winter-BootCamp-Team-I/Fro
 ```
 ### Install
 ```
-
+yarn install
 ```
 
 ### Run
 ```
-
+yarn run dev
 ```
 </br>
 
