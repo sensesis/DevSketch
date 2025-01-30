@@ -1,4 +1,4 @@
-### <p align = center>2024 Techeer Winter BootCamp I team<p>
+### <p align = center>DevSketch<p>
 <div align=center>
 <br> <image width=50%, height=50%, src="">
 
