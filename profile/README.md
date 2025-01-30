@@ -36,7 +36,8 @@ https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B
 </table>
 
 ## 🏢 System Architechture
-![image](https://github.com/user-attachments/assets/5f5a090e-0ec2-4902-b43c-423b5f966435)
+![image](https://github.com/user-attachments/assets/695acec5-66fd-40fc-b67c-331a7ebf86bc)
+
 
 
 
