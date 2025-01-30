@@ -159,6 +159,7 @@
         </tr>
     </table>
 </div>
+</br>
 
 ## 📂 Directory Structure
 <details>
@@ -322,7 +323,7 @@
 </code>
 </pre>
 </details>
-
+</br>
 
 ## 🧐 How to Start
 ### Backend 
