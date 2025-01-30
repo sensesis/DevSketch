@@ -87,7 +87,6 @@ https://medium.com/@qkrb8019/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B
       <td><b>DevOps</b></td>
       <td>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
         <img src="https://img.shields.io/badge/Jenkins-DC382D?style=for-the-badge&logo=Jenkins&logoColor=white">
       </td>
     </tr>
