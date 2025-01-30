@@ -4,7 +4,7 @@
 
 
 <br> DevSketch 
-##### URL : https://devsketch.site
+##### URL : https://devsketch.xyz
 </div>
 
 ## 🔮 Table of Contents
