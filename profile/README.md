@@ -37,9 +37,7 @@
 
 ## 🏢 System Architechture
 ![image](https://github.com/user-attachments/assets/5f5a090e-0ec2-4902-b43c-423b5f966435)
-
-
-
+</br>
 </br>
 
 ## 💻 Tech stack
@@ -116,12 +114,13 @@
     </tr>
   </table>
 </div>
+</br>
 
 ## 🗺️ ERD
 <img src="https://github.com/user-attachments/assets/9ee49521-fbce-45a1-9a79-d0624d476ed4">
 
 </br>
-
+</br>
 
 ## 📄 API 
 <div style="text-align: center;">
