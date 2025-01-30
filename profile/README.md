@@ -369,27 +369,27 @@ yarn run dev
 <th>Pictures</th>
 <td width="100" align="center">
 <a href="https://github.com/ukongee">
-<img src="" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/7cb712e2-0186-4d04-958f-92f86bcc29b0" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/kimyeeun21">
-<img src="" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/92217600-986a-4a6c-af7a-c4a7945e9893" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/daiseek">
-<img src="" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/e15bad6f-2fbd-4359-9fa2-b803920f5026" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/sensesis">
-<img src="" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/4f106b45-5798-4e62-801e-2049fac19012" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/hwanh2">
-<img src="" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/9d1530c2-df11-4768-b079-99ade3487051" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
