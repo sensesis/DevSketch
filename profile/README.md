@@ -15,8 +15,6 @@
 - [Tech stack](#-Tech-stack)
 - [ERD](#-Erd)
 - [API](#-API)
-- [Flow Chart](#-Flow-Chart)
-- [Sequence Diagram](#-Sequence-Diagram)
 - [Monitoring](#-Monitoring)
 - [Directory Structure](#-Directory-Structure)
 - [How to Start](#-How-to-Start)
@@ -148,16 +146,6 @@
 
 
 </div>
-</br>
-
-## 🪐 Flow Chart
-<img src="">
-
-</br>
-
-## 📊 Sequence Diagram
-<img src="">
-
 </br>
 
 ## 🧑🏻‍💻 Monitoring
