@@ -30,51 +30,30 @@
 </br>
 
 ## ✨ Demo
+### Onboarding
+> DevSketch의 간략한 설명을 담고 있습니다.
+<br>
+<img align="center" width="1000" alt="Onboarding" src="">
+<br><br>
 
-<table width="1000">
-    <tr>
-        <th style="text-align: center; padding: 0; margin: 0;">온보딩 페이지</th>
-    </tr>
-    <tr>
-        <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/46f24cbc-526f-4861-b8d1-0773f5e33a01" alt="온보딩 페이지 이미지" width="1000">
-        </td>
-    </tr>
-    <tr>
-        <th style="text-align: center; padding: 0; margin: 0;">캐릭터 선택 페이지</th>
-    </tr>
-    <tr>
-        <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/08ff5481-8922-481a-91ad-7298c16d6d46" alt="캐릭터 선택 페이지 이미지" width="1000">
-        </td>
-    </tr>
-    <tr>
-        <th style="text-align: center; padding: 0; margin: 0;">채팅, STT 페이지</th>
-    </tr>
-    <tr>
-        <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/9601acd8-deef-4006-b4b9-ee5b04008385" alt="채팅, STT 페이지 이미지" width="1000">
-        </td>
-    </tr>
-    <tr>
-        <th style="text-align: center; padding: 0; margin: 0;">상담 일지 페이지</th>
-    </tr>
-    <tr>
-        <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/373521e3-f642-47d2-8ca1-aeac11652d51" alt="상담 일지 페이지 이미지" width="1000">
-        </td>
-    </tr>
-    <tr>
-        <th style="text-align: center; padding: 0; margin: 0;">인기 순위 페이지</th>
-    </tr>
-    <tr>
-        <td style="padding: 0; margin: 0; width: 100%;">
-            <img src="https://github.com/user-attachments/assets/a32fbb76-905e-4aa7-958f-449cd7c63186" alt="인기 순위 페이지 이미지" width="1000">
-        </td>
-    </tr>
-</table>
-    
-</br>
+### Main
+> 설계와 세팅 페이지로 이동할 수 있으며 각각 개별적으로 가능합니다.
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="">
+<br><br>
+
+### Create system design
+> 입력한 프로젝트 설명을 기반으로 ai가 기능 명세를 만들어줍니다.<br>
+> 생성된 기능 명세를 기반으로 ERD, Diagram, Api (swagger-ui)를 시각화하여 만들어줍니다.
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="">
+<br><br>
+
+### Set up the initial environment
+> 설계를 바탕으로 초기 세팅을 할 수도 있으며, 메인 페이지에서 초기 세팅만 할 수도 있습니다.
+<br>
+<img align="center" width="1000" alt="Login & Sign up" src="">
+<br><br>
 
 ## 🏢 System Architechture
 ![image](https://github.com/user-attachments/assets/5f5a090e-0ec2-4902-b43c-423b5f966435)
