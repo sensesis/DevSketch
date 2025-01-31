@@ -48,8 +48,8 @@
 ### Set up the initial environment
 > 설계를 바탕으로 초기 세팅을 할 수도 있으며, 메인 페이지에서 초기 세팅만 할 수도 있습니다.<br>
 > 초기 세팅은 깃허브에 업로드 가능하며, 사용자는 생성된 api를 가상환경을 통해 30분간 실제로 사용해 볼 수 있습니다.
-<img align="center" width="1000" alt="setup" src="https://github.com/user-attachments/assets/aae58ef3-cf13-4c4c-aa10-ee4fc21f10f5">
-<img align="center" width="1000" alt="push" src="https://github.com/user-attachments/assets/2074e286-c671-4cf0-becd-a4054fb4b31a">
+<img align="center" width="1000" alt="setup" src="https://github.com/user-attachments/assets/9bafe0a3-87e3-40d0-b8dd-462a847caf35">
+<img align="center" width="1000" alt="push" src="https://github.com/user-attachments/assets/aa2f9000-e657-41eb-a8ba-ac8ce92db24f">
 <br><br>
 
 ## 🏢 System Architechture
