@@ -32,8 +32,49 @@
 ## ✨ Demo
 
 <table width="1000">
-    
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">온보딩 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/46f24cbc-526f-4861-b8d1-0773f5e33a01" alt="온보딩 페이지 이미지" width="1000">
+        </td>
+    </tr>
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">캐릭터 선택 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/08ff5481-8922-481a-91ad-7298c16d6d46" alt="캐릭터 선택 페이지 이미지" width="1000">
+        </td>
+    </tr>
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">채팅, STT 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/9601acd8-deef-4006-b4b9-ee5b04008385" alt="채팅, STT 페이지 이미지" width="1000">
+        </td>
+    </tr>
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">상담 일지 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/373521e3-f642-47d2-8ca1-aeac11652d51" alt="상담 일지 페이지 이미지" width="1000">
+        </td>
+    </tr>
+    <tr>
+        <th style="text-align: center; padding: 0; margin: 0;">인기 순위 페이지</th>
+    </tr>
+    <tr>
+        <td style="padding: 0; margin: 0; width: 100%;">
+            <img src="https://github.com/user-attachments/assets/a32fbb76-905e-4aa7-958f-449cd7c63186" alt="인기 순위 페이지 이미지" width="1000">
+        </td>
+    </tr>
 </table>
+    
+</br>
 
 ## 🏢 System Architechture
 ![image](https://github.com/user-attachments/assets/5f5a090e-0ec2-4902-b43c-423b5f966435)
