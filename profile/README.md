@@ -32,7 +32,7 @@
 ## ✨ Demo
 ### Onboarding
 > DevSketch의 간략한 설명을 담고 있습니다.
-<img align="center" width="1000" alt="Onboarding" src="">
+<img align="center" width="1000" alt="Onboarding" src="https://github.com/user-attachments/assets/14895107-9044-4eba-8626-8b51b3625163">
 <br><br>
 
 ### Main
