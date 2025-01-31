@@ -32,27 +32,26 @@
 ## ✨ Demo
 ### Onboarding
 > DevSketch의 간략한 설명을 담고 있습니다.
-<br>
 <img align="center" width="1000" alt="Onboarding" src="">
 <br><br>
 
 ### Main
 > 설계와 세팅 페이지로 이동할 수 있으며 각각 개별적으로 가능합니다.
-<br>
-<img align="center" width="1000" alt="Login & Sign up" src="">
+<img align="center" width="1000" alt="main" src="https://github.com/user-attachments/assets/07ba3f12-e0a1-4439-9bf2-c715f8407ed7">
 <br><br>
 
 ### Create system design
 > 입력한 프로젝트 설명을 기반으로 ai가 기능 명세를 만들어줍니다.<br>
 > 생성된 기능 명세를 기반으로 ERD, Diagram, Api (swagger-ui)를 시각화하여 만들어줍니다.
-<br>
-<img align="center" width="1000" alt="Login & Sign up" src="">
+<img align="center" width="1000" alt="create" src="https://github.com/user-attachments/assets/d3019b5f-6a73-4fd0-8839-99012dc4b0ec">
+<img align="center" width="1000" alt="check" src="https://github.com/user-attachments/assets/1fc0ba05-c542-46fc-a664-53dbe6cecf3f">
 <br><br>
 
 ### Set up the initial environment
-> 설계를 바탕으로 초기 세팅을 할 수도 있으며, 메인 페이지에서 초기 세팅만 할 수도 있습니다.
-<br>
-<img align="center" width="1000" alt="Login & Sign up" src="">
+> 설계를 바탕으로 초기 세팅을 할 수도 있으며, 메인 페이지에서 초기 세팅만 할 수도 있습니다.<br>
+> 초기 세팅은 깃허브에 업로드 가능하며, 사용자는 생성된 api를 가상환경을 통해 30분간 실제로 사용해 볼 수 있습니다.
+<img align="center" width="1000" alt="setup" src="https://github.com/user-attachments/assets/aae58ef3-cf13-4c4c-aa10-ee4fc21f10f5">
+<img align="center" width="1000" alt="push" src="https://github.com/user-attachments/assets/aae58ef3-cf13-4c4c-aa10-ee4fc21f10f5">
 <br><br>
 
 ## 🏢 System Architechture
