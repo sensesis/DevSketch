@@ -1,8 +1,7 @@
+### <p align = center>🎉 2024 Techeer Winter BootCamp 1등 🎉<p>
 ### <p align = center>2024 Techeer Winter BootCamp Team I<p>
-<div align=center>
 <br> <image width=80%, height=80%, src="https://github.com/user-attachments/assets/fc7fbd35-0b29-410c-b157-7f74e90e1345">
 
-🎉 2024 Techeer Winter BootCamp 1등 🎉
 <br> DevSketch 
 ##### URL : https://devsketch.xyz
 </div>
